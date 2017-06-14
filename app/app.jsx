@@ -7,7 +7,7 @@ const Countdown = require("Countdown");
 const Timer = require("Timer");
 
 // Load foundation
-require("style!css!foundation-sites/dist/foundation.min.css");
+// require("style!css!foundation-sites/dist/foundation.min.css");
 //style! => Load the style in the browser by injecting it in a <style> tag
 //css! => Tell webpack this is a stylesheet
 
